@@ -1,0 +1,129 @@
+body {
+	background-color:darkred;
+
+}
+
+
+
+}
+
+
+header {
+	text-align: center;
+
+
+}
+
+h2{
+	color:white;
+	font-family:sans-serif;
+}
+
+h1{
+	color:white;
+	font-family:sans-serif;
+}
+
+.first{
+	background-color: red;
+	font-family:sans-serif;
+	margin:10px;
+	padding:10px;
+	text-align:center;
+	border:double 10px;
+	border-color:orangered;
+	
+}
+.third{
+	background-color: red;
+	font-family:sans-serif;
+	margin:30px;
+	padding:20px;
+	text-align:center;
+	border:double 10px;
+	border-color:orangered;
+	
+
+
+}
+
+.last{
+	background-color: red;
+	font-family:sans-serif;
+	margin:10px;
+	padding:10px;
+	text-align:center;
+	font-weight:lighter;
+	border:double 10px;
+	border-color:orangered;
+	
+
+
+}
+
+
+.fourth{
+	background-color: red;
+	font-family:sans-serif;
+	margin:30px;
+	padding:20px;
+	text-align:center;
+	border:double 10px;
+	border-color:orangered;
+	
+
+
+
+}
+
+.text{
+	color:white;
+}
+
+
+
+table, th, td{
+	margin-left:auto;
+	margin-right:auto;
+	border: 2px solid black;
+	border-color: orangered;
+	padding: 2px;
+
+}
+
+#h1 {
+	color:red;
+	text-align:center;
+}
+
+#logo {
+	text-align:center;
+}
+
+#last{
+	color:red;
+	text-align:center;
+}
+
+#ref{
+	text-align:center;
+	font-family:sans-serif;
+	color:white;
+	font-weight:bold;
+}
+
+#h6{
+	text-align:center;
+	font-family:sans-serif;
+	color:white;
+	font-weight:bold;
+}
+
+th.third{
+	column-span:1;
+}
+
+table {
+	;width: 40%; ;height: 40%;
+
+ 
